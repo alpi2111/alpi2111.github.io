@@ -3,6 +3,12 @@
     "nombre": "Computación Científica en la Nube - Cloud Computing - AWS"
   },
   {
+    "nombre": "Curso Programación Tarjetas  de Desarrollo"
+  },
+  {
+    "nombre": "Curso Taller 'Aplicaciones del Cálculo Diferencial'"
+  },
+  {
     "nombre": "Drone ¿Realidad o Ficción?"
   },
   {
@@ -22,6 +28,15 @@
   },
   {
     "nombre": "Sistemas de pronóstico de la calidad del arie: Caso de CALIOPE"
+  },
+  {
+    "nombre": "Taller: Create your first API with Node JS"
+  },
+  {
+    "nombre": "Taller: Postman, testing your API"
+  },
+  {
+    "nombre": "Taller: Version Control with Git for Developers."
   },
   {
     "nombre": "Webinar 'Como Seleccionar el Microcontrolador Adecuado a tu Aplicación'"
