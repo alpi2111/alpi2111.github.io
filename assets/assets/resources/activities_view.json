@@ -1,65 +1,53 @@
 [
   {
-    "nombre": "Computación Científica en la Nube - Cloud Computing - AWS"
+    "nombre": "Como llegar a trabajar en Google"
   },
   {
-    "nombre": "Curso Programación Tarjetas  de Desarrollo"
+    "nombre": "Diseño de circuitos impresos"
   },
   {
-    "nombre": "Curso Taller 'Aplicaciones del Cálculo Diferencial'"
+    "nombre": "Curso - Taller Introducción al lenguaje de Flutter para crear apps"
   },
   {
-    "nombre": "Drone ¿Realidad o Ficción?"
+    "nombre": "Álgebra lineal y sus aplicaciones"
   },
   {
-    "nombre": "Estrategia del Departamento de Ciencias Básicas del ITSPR"
+    "nombre": "Telemetría aplicada en IoT para la toma de decisiones"
   },
   {
-    "nombre": "Inteligencia Artificial y Salud"
+    "nombre": "Despliegue de infraestructura para IoT en la nube con Amazon Web Services"
   },
   {
-    "nombre": "Oracle Databae: PL/SQL Fundamentals"
+    "nombre": "Implementacion de las TICs y la robotica competitiva en el proceso de enseñanza aprendizaje"
   },
   {
-    "nombre": "Personajes para mi Historia: Herramientas para crear buenos personajes de ficción"
+    "nombre": "Curso de tarjetas BBC Micro: bit"
   },
   {
-    "nombre": "Realidad Virtual: Introducción a los efectos visuales digitales: Tracking 3D y Compositing"
+    "nombre": "Confiabilidad de la energía en tableros de control"
   },
   {
-    "nombre": "Sistemas de pronóstico de la calidad del arie: Caso de CALIOPE"
+    "nombre": "IoT: Obtención y análisis de datos en el ecosistema de dispositivos conectados"
   },
   {
-    "nombre": "Taller: Create your first API with Node JS"
+    "nombre": "De los experimentos de galileo a las leyes de Newton"
   },
   {
-    "nombre": "Taller: Postman, testing your API"
+    "nombre": "Conectividad pasiva y sensores inductivos"
   },
   {
-    "nombre": "Taller: Version Control with Git for Developers."
+    "nombre": "La automatización y la industria 4.0"
   },
   {
-    "nombre": "Webinar 'Como Seleccionar el Microcontrolador Adecuado a tu Aplicación'"
+    "nombre": "Ciberseguridad: como proteger tus datos personales en internet"
   },
   {
-    "nombre": "Webinar 'Experiencia en Egresado de Ing. Electrónica en el Extranjero'"
+    "nombre": "Cuso - Taller Lenguaje de Flutter avanzado para crear apps"
   },
   {
-    "nombre": "Webinar 'Aplicación de la Instrumentación'"
+    "nombre": "Lógica difusa conceptos básicos y aplicaciones"
   },
   {
-    "nombre": "Webinar 'Aplicación de Robótica en el Industria'"
-  },
-  {
-    "nombre": "Webinar 'Experiencia en Modelo Dual'"
-  },
-  {
-    "nombre": "Webinar 'Herramientas Matemáticas Aplicadas de Control '"
-  },
-  {
-    "nombre": "Webinar 'La Ingeniería Electrónica en la Industria'"
-  },
-  {
-    "nombre": "Webinar 'Propiedad Industrial'"
+    "nombre": "Tendencia de la seguridad cibernética en América Latina"
   }
 ]

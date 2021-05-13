@@ -1,47 +1,53 @@
 [
   {
-    "nombre": "Computación Científica en la Nube - Cloud Computing - AWS"
+    "nombre": "Como llegar a trabajar en Google"
   },
   {
-    "nombre": "Drone ¿Realidad o Ficción?"
+    "nombre": "Diseño de circuitos impresos"
   },
   {
-    "nombre": "Estrategia del Departamento de Ciencias Básicas del ITSPR"
+    "nombre": "Curso - Taller Introducción al lenguaje de Flutter para crear apps"
   },
   {
-    "nombre": "Inteligencia Artificial y Salud"
+    "nombre": "Álgebra lineal y sus aplicaciones"
   },
   {
-    "nombre": "Personajes para mi Historia: Herramientas para crear buenos personajes de ficción"
+    "nombre": "Telemetría aplicada en IoT para la toma de decisiones"
   },
   {
-    "nombre": "Realidad Virtual: Introducción a los efectos visuales digitales: Tracking 3D y Compositing"
+    "nombre": "Despliegue de infraestructura para IoT en la nube con Amazon Web Services"
   },
   {
-    "nombre": "Sistemas de pronóstico de la calidad del arie: Caso de CALIOPE"
+    "nombre": "Implementacion de las TICs y la robotica competitiva en el proceso de enseñanza aprendizaje"
   },
   {
-    "nombre": "Webinar 'Como Seleccionar el Microcontrolador Adecuado a tu Aplicación'"
+    "nombre": "Curso de tarjetas BBC Micro: bit"
   },
   {
-    "nombre": "Webinar 'Experiencia en Egresado de Ing. Electrónica en el Extranjero'"
+    "nombre": "Confiabilidad de la energía en tableros de control"
   },
   {
-    "nombre": "Webinar 'Aplicación de la Instrumentación'"
+    "nombre": "IoT: Obtención y análisis de datos en el ecosistema de dispositivos conectados"
   },
   {
-    "nombre": "Webinar 'Aplicación de Robótica en el Industria'"
+    "nombre": "De los experimentos de galileo a las leyes de Newton"
   },
   {
-    "nombre": "Webinar 'Experiencia en Modelo Dual'"
+    "nombre": "Conectividad pasiva y sensores inductivos"
   },
   {
-    "nombre": "Webinar 'Herramientas Matemáticas Aplicadas de Control '"
+    "nombre": "La automatización y la industria 4.0"
   },
   {
-    "nombre": "Webinar 'La Ingeniería Electrónica en la Industria'"
+    "nombre": "Ciberseguridad: como proteger tus datos personales en internet"
   },
   {
-    "nombre": "Webinar 'Propiedad Industrial'"
+    "nombre": "Cuso - Taller Lenguaje de Flutter avanzado para crear apps"
+  },
+  {
+    "nombre": "Lógica difusa conceptos básicos y aplicaciones"
+  },
+  {
+    "nombre": "Tendencia de la seguridad cibernética en América Latina"
   }
 ]

@@ -4,31 +4,37 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "16d83a6b1099fb72b3f1b926ecc0c216",
-"index.html": "522773c7ac3a14126c7365c87764fe5c",
-"/": "522773c7ac3a14126c7365c87764fe5c",
-"main.dart.js": "eec41e281588e6470da640b8492c2a8f",
+"index.html": "0548b5c1c9e95a0809fb6a3200fc921c",
+"/": "0548b5c1c9e95a0809fb6a3200fc921c",
+"main.dart.js": "6bd77a3e7ceeb8d3469438f7104d40ac",
 "favicon.png": "072fdc069fb4b1880957e49638ca187a",
 "icons/Icon-192.png": "072fdc069fb4b1880957e49638ca187a",
 "icons/Icon-512.png": "71b70d6baa4952067bf12f7ed079183f",
 "manifest.json": "f1ba02762c9c534d84043d961b2f51d5",
-"assets/AssetManifest.json": "038edca629fad075eaeb062209d50398",
-"assets/NOTICES": "2e23fd81122086039fc62ca6daa23348",
+"assets/AssetManifest.json": "c610d0309f32c6bb26ce8c1d0dd3d314",
+"assets/NOTICES": "83ab1cc45ea478586ed5698e2c97cec3",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/assets/resources/carreras.json": "1611f3506ef0aad6a57786238f523346",
 "assets/assets/resources/dev_home/CONVOCATORIA_RETO_DEVHOME.pdf": "47855cd429a8a8de45dc71ea1006e38c",
 "assets/assets/resources/dev_home/Problema_categoria_C.pdf": "c36f5eea24c4d5356c61b686b67ed417",
-"assets/assets/resources/activities_view.json": "9ef5e6ea8dbfaea184f1417b1934eef3",
-"assets/assets/resources/activities.json": "c537cbbbda1ab19886a5e8b08d03ee93",
+"assets/assets/resources/activities_view.json": "e2d6138538cf588e8605efd5155e0d81",
+"assets/assets/resources/activities.json": "e2d6138538cf588e8605efd5155e0d81",
+"assets/assets/img/cartel_jornada2_1.jpeg": "8024f0f3131bd8fc0f3fec14f11a61fa",
+"assets/assets/img/cartel_jornada2_principal.jpeg": "4f0ecebf664ec239a26568eb15ff16bc",
 "assets/assets/img/node_buenfin.jpeg": "13d109e3e7e638881e98dd4997b0856c",
 "assets/assets/img/cartel1.jpeg": "e78d25f789a86bb24c3d43ccc36bbb99",
+"assets/assets/img/cartel_jornada2_5.jpeg": "afe7fd4f3d0967f5d04dbc2920b08755",
 "assets/assets/img/oracle_banner.jpg": "9d87fad3eefced3d436e0b8e5d38fbaf",
 "assets/assets/img/cartel2.jpeg": "d348c40bc90cd460492003e003eff09a",
 "assets/assets/img/git_buenfin.jpeg": "e4e3bce9a7388476cfa492a9ea4a68c5",
 "assets/assets/img/DevHOME_HORIZONTAL.jpeg": "d7b565acc26199c3a7108d411c3a3b53",
 "assets/assets/img/cartel3.jpeg": "aed3ebbe693ba690935c1c5f88985507",
+"assets/assets/img/cartel_jornada2_4.jpeg": "6b0c5dc6599b046a1b808f13a8024cbc",
+"assets/assets/img/cartel_jornada2_3.jpeg": "1c4e48e7852ca3bcd25a157ab69fbd9b",
 "assets/assets/img/postman_buenfin.jpeg": "73288aa9ae56a8489e7cb1d7cc2f547c",
+"assets/assets/img/cartel_jornada2_2.jpeg": "919f4e17f28681538fffb1cc30f6d5e9",
 "assets/assets/icons/CISC_240.png": "0e1d7e8b128a1f3b21636a4ad3674269",
 "assets/assets/icons/gmail.svg": "23a7dee5995afbb2f9ad3b32799c6f82",
 "assets/assets/icons/instagram.png": "54678346db0f8e98973df5955aa88a2c",
@@ -181,7 +187,7 @@ async function downloadOffline() {
     }
     currentContent[key] = true;
   }
-  for (var resourceKey in Object.keys(RESOURCES)) {
+  for (var resourceKey of Object.keys(RESOURCES)) {
     if (!currentContent[resourceKey]) {
       resources.push(resourceKey);
     }
