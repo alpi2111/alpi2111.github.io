@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "16d83a6b1099fb72b3f1b926ecc0c216",
-"index.html": "5927f68414ffa06c43b18ed01a779e16",
-"/": "5927f68414ffa06c43b18ed01a779e16",
-"main.dart.js": "e6417a2ea3f5139e88d88c32ba402677",
+"index.html": "b0820f072a1dbf921c62c9367625dbb0",
+"/": "b0820f072a1dbf921c62c9367625dbb0",
+"main.dart.js": "37a560bfca5b3a4fc8d10d3a200775ea",
 "favicon.png": "072fdc069fb4b1880957e49638ca187a",
 "icons/Icon-192.png": "072fdc069fb4b1880957e49638ca187a",
 "icons/Icon-512.png": "71b70d6baa4952067bf12f7ed079183f",
@@ -20,7 +20,7 @@ const RESOURCES = {
 "assets/assets/resources/dev_home/CONVOCATORIA_RETO_DEVHOME.pdf": "47855cd429a8a8de45dc71ea1006e38c",
 "assets/assets/resources/dev_home/Problema_categoria_C.pdf": "c36f5eea24c4d5356c61b686b67ed417",
 "assets/assets/resources/activities_view.json": "e2d6138538cf588e8605efd5155e0d81",
-"assets/assets/resources/activities.json": "e2d6138538cf588e8605efd5155e0d81",
+"assets/assets/resources/activities.json": "4fcfdac2d0befd3dbdddc869a30824d2",
 "assets/assets/img/cartel_jornada2_1.jpeg": "8024f0f3131bd8fc0f3fec14f11a61fa",
 "assets/assets/img/cartel_jornada2_0.jpeg": "4f0ecebf664ec239a26568eb15ff16bc",
 "assets/assets/img/node_buenfin.jpeg": "13d109e3e7e638881e98dd4997b0856c",
